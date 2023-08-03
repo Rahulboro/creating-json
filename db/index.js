@@ -1,0 +1,28 @@
+{
+    "user":[
+        {
+            "id":1,
+            "name":Hitesh,
+            "email":"Hitesh@gmail.com",
+            "role":"admin"
+        },
+        {
+            "id":2,
+            "name":Rahul,
+            "email":"rahul@gmail.com",
+            "role":"owner"
+        },
+        {
+            "id":3,
+            "name":Sam,
+            "email":"sam@gmail.com",
+            "role":"member"
+        },
+        {
+            "id":4,
+            "name":Ujjal,
+            "email":"ujjal@gmail.com",
+            "role":"admin"
+        },
+    ]
+}
