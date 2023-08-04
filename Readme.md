@@ -2,6 +2,9 @@
 
 The project aims to demonstrate how to make API calls to a JSON-server using only HTML, Tailwind CSS, and JavaScript. I have a simple web application that fetches data from the JSON-server and displays it on the webpage.
 
+## this is how it looks
+![ApiWebsite](api.jpg)
+
 
 ## Technologies Used:
 1. HTML: For structuring the webpage elements.
